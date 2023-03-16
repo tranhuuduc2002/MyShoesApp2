@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">___My Shoes App___</string>
+    <string name="splash_title">Quản Lý Kho Giày</string>
+
+    <string name="action_ok">Đồng ý</string>
+    <string name="action_cancel">Hủy</string>
+    <string name="action_add">Thêm</string>
+    <string name="action_delete">Xóa</string>
+    <string name="action_edit">Chỉnh sửa</string>
+
+    <string name="feature_list_menu">Danh sách giày</string>
+    <string name="feature_manage_unit">Tên đơn vị</string>
+    <string name="feature_add_shoes">Nhập hàng</string>
+    <string name="feature_shoes_used">Tiêu thụ</string>
+    <string name="feature_manage_shoes">Quản lý</string>
+    <string name="feature_shoes_out_of_stock">Hết hàng</string>
+    <string name="feature_revenue">Doanh thu</string>
+    <string name="feature_cost">Chi phí</string>
+    <string name="feature_profit">Kho giày</string>
+    <string name="feature_shoes_popular">Bán chạy</string>
+
+    <string name="delete_all">Xóa tất cả</string>
+    <string name="add_shoes_name">Nhập tên giày</string>
+    <string name="edit_shoes_name">Chỉnh sửa tên giày</string>
+    <string name="confirm_delete">Xác nhận xóa</string>
+    <string name="add_unit_name">Nhập tên đơn vị</string>
+    <string name="edit_unit_name">Chỉnh sửa tên đơn vị</string>
+    <string name="list_shoes_buy">Danh sách giày đã mua</string>
+    <string name="list_shoes_used">Danh sách giày đã tiêu thụ</string>
+    <string name="label_total_price">Tổng tiền:</string>
+    <string name="label_total_revenue">Tổng doanh thu:</string>
+    <string name="label_total_cost">Tổng chi phí:</string>
+    <string name="label_total_profit">Giá trị:</string>
+    <string name="label_quantity">Số lượng:</string>
+    <string name="label_unit">Đơn vị:</string>
+    <string name="label_current_quantity">Số lượng:</string>
+    <string name="label_detail">Chi tiết</string>
+    <string name="label_currency">000 VNĐ</string>
+    <string name="edit_history_add">Chỉnh sửa lịch sử nhập giày</string>
+    <string name="edit_history_used">Chỉnh sửa lịch sử tiêu thụ giày</string>
+    <string name="label_added">SL nhập</string>
+    <string name="label_used">SL cài đặt</string>
+    <string name="column_stt">STT</string>
+    <string name="column_shoes_name">Giày</string>
+    <string name="column_quantity">Số lượng (đôi)</string>
+    <string name="column_total_amount">Tổng Tiền</string>
+    <string name="label_date_from">Từ ngày:</string>
+    <string name="label_date_to">Đến ngày:</string>
+    <string name="column_current_quantity">Tồn kho</string>
+    <string name="column_profit">Đơn vị quản lý</string>
+
+    <string name="hint_shoes_name">Tên giày…</string>
+    <string name="hint_unit_name">Tên đơn vị…</string>
+    <string name="hint_quantity">Số lượng…</string>
+    <string name="hint_price">Đơn giá…</string>
+
+    <string name="msg_confirm_exit_app">Bạn có chắc chắn muốn thoát ứng dụng không?</string>
+    <string name="msg_feature_pending">Tính năng đang được phát triển</string>
+    <string name="msg_waiting">Vui lòng đợi…</string>
+    <string name="msg_get_data_error">Không lấy được dữ liệu, vui lòng kiểm tra kết nối mạng của bạn</string>
+    <string name="msg_shoes_name_require">Vui lòng nhập tên giày</string>
+    <string name="msg_shoes_exist">Giày đã tồn tại</string>
+    <string name="msg_add_shoes_success">Thêm giày thành công</string>
+    <string name="msg_used_shoes_success">Thêm lịch sử tiêu thụ giày thành công</string>
+    <string name="msg_edit_shoes_success">Chỉnh sửa giày thành công</string>
+    <string name="msg_confirm_delete">Bạn có chắc chắn muốn xóa không?</string>
+    <string name="msg_delete_shoes_success">Xóa giày thành công</string>
+    <string name="msg_confirm_delete_all">Bạn có chắc chắn muốn xóa tất cả không?</string>
+    <string name="msg_delete_all_shoes_success">Xóa tất cả giày thành công</string>
+
+    <string name="msg_unit_name_require">Vui lòng nhập tên đơn vị</string>
+    <string name="msg_unit_exist">Đơn vị đã tồn tại</string>
+    <string name="msg_delete_unit_success">Xóa đơn vị thành công</string>
+    <string name="msg_delete_all_unit_success">Xóa tất cả đơn vị thành công</string>
+    <string name="msg_add_unit_success">Thêm đơn vị thành công</string>
+    <string name="msg_edit_unit_success">Chỉnh sửa đơn vị thành công</string>
+    <string name="msg_list_shoes_require">Vui lòng nhập danh sách giày ngoài màn hình chính</string>
+    <string name="msg_list_unit_require">Vui lòng nhập danh sách đơn vị ngoài màn hình chính</string>
+    <string name="msg_enter_full_infor">Vui lòng nhập đầy đủ thông tin</string>
+    <string name="msg_delete_add_history_success">Xoá lịch sử nhập giày thành công</string>
+    <string name="msg_delete_used_history_success">Xoá lịch sử tiêu thụ giày thành công</string>
+    <string name="msg_edit_add_history_success">Chỉnh sửa lịch sử nhập giày thành công</string>
+    <string name="msg_edit_used_history_success">Chỉnh sửa lịch sử tiêu thụ giày thành công</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
